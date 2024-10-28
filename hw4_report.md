@@ -1,6 +1,6 @@
-Dakota Scott
-CS625-HW4
-Due: 10/27/24
+Dakota Scott  
+CS625-HW4  
+Due: 10/27/24  
 
 # Report
 ## Question 1
